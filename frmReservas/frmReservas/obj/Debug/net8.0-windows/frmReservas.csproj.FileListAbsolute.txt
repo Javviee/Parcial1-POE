@@ -1,0 +1,16 @@
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\bin\Debug\net8.0-windows\frmReservas.exe
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\bin\Debug\net8.0-windows\frmReservas.deps.json
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\bin\Debug\net8.0-windows\frmReservas.runtimeconfig.json
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\bin\Debug\net8.0-windows\frmReservas.dll
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\bin\Debug\net8.0-windows\frmReservas.pdb
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\obj\Debug\net8.0-windows\frmReservas.frmReservas.resources
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\obj\Debug\net8.0-windows\frmReservas.csproj.GenerateResource.cache
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\obj\Debug\net8.0-windows\frmReservas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\obj\Debug\net8.0-windows\frmReservas.AssemblyInfoInputs.cache
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\obj\Debug\net8.0-windows\frmReservas.AssemblyInfo.cs
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\obj\Debug\net8.0-windows\frmReservas.csproj.CoreCompileInputs.cache
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\obj\Debug\net8.0-windows\frmReservas.dll
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\obj\Debug\net8.0-windows\refint\frmReservas.dll
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\obj\Debug\net8.0-windows\frmReservas.pdb
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\obj\Debug\net8.0-windows\frmReservas.genruntimeconfig.cache
+C:\Users\barah\OneDrive\Escritorio\frmReservas\frmReservas\obj\Debug\net8.0-windows\ref\frmReservas.dll
